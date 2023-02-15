@@ -1,2 +1,0 @@
-# reactBasics
- react exercise
